@@ -15,7 +15,9 @@ Top Articles:
 
 Courses:
 - [Build Multi-Agent LLM Applications](https://www.udemy.com/course/multi-agent-llm-applications)
-- 📺 YouTube Profile: https://www.youtube.com/@datawithshahzeb
+
+
+📺 **YouTube Profile:** https://www.youtube.com/@datawithshahzeb
 
 
 🔭 **I’m currently working on:**
