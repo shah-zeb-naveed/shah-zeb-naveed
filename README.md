@@ -13,7 +13,7 @@ Top Articles:
   
 🧑‍🏫 **Udemy Profile:** https://www.udemy.com/user/shahzeb-naveed-6/
 
-Courses:
+My FREE course:
 - [Build Multi-Agent LLM Applications](https://www.udemy.com/course/multi-agent-llm-applications)
 
 
